@@ -1,5 +1,6 @@
 {
     "name": "maximnnn/chain",
+    "type": "library",
     "version": "0.0.1",
     "description": "chain",
     "minimum-stability": "stable",
