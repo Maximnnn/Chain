@@ -1,5 +1,5 @@
 <?php
-namespace Maximnnn\Chain;
+namespace Chain;
 
 class Chain
 {

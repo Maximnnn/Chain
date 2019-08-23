@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Maximnnn\Chain;
+namespace Chain;
 
 
 abstract class Handler

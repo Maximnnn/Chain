@@ -19,12 +19,12 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Maximnnn\\Chain\\" : "lib"
+            "Chain\\" : "lib"
         }
     },
     "autoload-dev" : {
         "psr-4" : {
-            "Maximnnn\\Chain\\Test\\" : "tests"
+            "Chain\\Test\\" : "tests"
         }
     }
 }
